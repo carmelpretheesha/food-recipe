@@ -1,0 +1,17 @@
+com\example\backend\backend\model\UserPrincipal.class
+com\example\backend\backend\repo\RatingRepository.class
+com\example\backend\backend\service\UserConfig.class
+com\example\backend\backend\model\Ingredients.class
+com\example\backend\backend\repo\CardRepo.class
+com\example\backend\backend\model\RatingForm.class
+com\example\backend\backend\controller\UserController.class
+com\example\backend\backend\model\Procedures.class
+com\example\backend\backend\service\UserService.class
+com\example\backend\backend\repo\ProcedureRepository.class
+com\example\backend\backend\config\SecurityConfig.class
+com\example\backend\backend\repo\UserRepo.class
+com\example\backend\backend\repo\IngredientRepository.class
+com\example\backend\backend\config\WebConfig.class
+com\example\backend\backend\model\User.class
+com\example\backend\backend\model\Recipe.class
+com\example\backend\backend\BackendApplication.class
